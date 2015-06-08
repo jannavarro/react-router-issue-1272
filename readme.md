@@ -7,5 +7,5 @@ npm install
 ## Run
 
 ```
-npm run watch
+just open index.html in browser
 ```
