@@ -7,5 +7,5 @@ npm install
 ## Run
 
 ```
-just open index.html in browser
+npm run watch. when index-entry.js is created just open index.html in browser
 ```
